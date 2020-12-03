@@ -17,3 +17,10 @@ img.align-center{
   display: block;
   margin: 0px auto;
 }
+
+table{
+  text-align: center;
+  border-bottom: 1px solid #ddd
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
